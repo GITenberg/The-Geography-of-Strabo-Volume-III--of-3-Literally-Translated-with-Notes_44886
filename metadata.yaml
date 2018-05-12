@@ -29,6 +29,8 @@ creator:
     gutenberg_agent_id: '42968'
     url: http://www.gutenberg.org/2009/agents/42968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44886#The-Geography-of-Strabo-Volume-III--of-3-Literally-Translated-with-Notes
 gutenberg_issued: '2014-02-13'
 gutenberg_type: Text
 identifiers:
