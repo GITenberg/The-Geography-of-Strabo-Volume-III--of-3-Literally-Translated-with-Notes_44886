@@ -1,0 +1,44 @@
+_repo: The-Geography-of-Strabo-Volume-III--of-3-Literally-Translated-with-Notes_44886
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Falconer, W. (William)
+    alias: Falconer, William
+    birthdate: 1801
+    deathdate: 1885
+    gutenberg_agent_id: '42970'
+    url: http://www.gutenberg.org/2009/agents/42970
+  - agent_name: Hamilton, Hans Claude
+    alias: Hamilton, H. C. (Hans Claude)
+    birthdate: 1811
+    deathdate: 1895
+    gutenberg_agent_id: '42969'
+    url: http://www.gutenberg.org/2009/agents/42969
+covers:
+- cover_type: archival
+  image_path: 44886-h/images/cover3.jpg
+creator:
+  author:
+    agent_name: Strabo
+    aliases:
+    - Στράβων
+    - Straboni
+    - Estrabón
+    - Strabon
+    - Strabone
+    gutenberg_agent_id: '42968'
+    url: http://www.gutenberg.org/2009/agents/42968
+description: ''
+gutenberg_issued: '2014-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44886'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Geography -- Early works to 1800'
+title: "The Geography of Strabo, Volume 3 (of 3)\r\nLiterally Translated, with Notes"
+url: http://www.gutenberg.org/ebooks/44886
